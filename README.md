@@ -7,6 +7,7 @@
 - 📫 برای ارتباط با من:  
   - تلگرام: [@MohammadCza](https://t.me/MohammadCza)  
   - ایمیل: mohammad.programer.front@gmail.com  
+  - لینکدین: www.linkedin.com/in/MohammadBorji83
 - 💬 دوست دارم یادگیری رو پروژه‌محور، عمیق و کاربردی جلو ببرم  
 
 من عاشق یادگرفتن تکنولوژی ها و مهارت های جدیدم
