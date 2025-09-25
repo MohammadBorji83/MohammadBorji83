@@ -1,3 +1,5 @@
+
+
 # 👋 سلام! من محمدم  
 
 - 👨‍💻 دانشجوی مهندسی کامپیوتر و عاشق دنیای برنامه‌نویسی  
@@ -25,6 +27,16 @@
 
 ---
 
+
+
+<p align="center">
+  <a href="https://github.com/MohammadBorji83">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohammad+Borji!;A+Passionate+Frontend+Developer;Love+Coding+%26+Learning+New+Things&background=000000" alt="Typing SVG">
+  </a>
+</p>
+
+
+
 # 👋 Hi, I'm Mohammad  
 
 - 👨‍💻 Computer Engineering student & passionate about programming  
@@ -48,3 +60,6 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
+
+
+
